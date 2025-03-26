@@ -1,0 +1,7 @@
+requests
+re
+sys
+time
+colorama
+threading
+datetime
